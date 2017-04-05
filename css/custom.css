@@ -1,0 +1,40 @@
+.logo-size img{
+	height:40px;
+	width:140px;
+	margin-top: -10px;
+}
+.navbar {
+	background-color: #43BDBD;
+}
+.btn-default {
+	color: #ffffff;
+    background-color: #95a5a6;
+    border-color: #95a5a6;
+}
+.title {
+	font-weight: 700;
+	font-size: 39px;
+}
+/*All P tags*/
+p {
+	font-size: 1.2em;
+}
+/*Boostrap buttons custom css*/
+.btn-lg{
+    padding: 18px 27px;
+    font-size: 19px;
+    line-height: 1.33;
+    border-radius: 6px;
+}
+.btn-default {
+    color: #ffffff;
+    background-color: #95a5a6;
+    border-color: #95a5a6;
+    font-size: 15px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+li a {
+	font-size: 1.2em;
+}
